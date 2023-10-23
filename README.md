@@ -30,7 +30,7 @@ and BME280 part based on (Adafruit's)[https://github.com/adafruit/Adafruit_BME28
                          |        -------        |
    BME280 VCC ------ 3V3 | [X]               [X] | VIN ------ EPD VCC
    BME280 GND ------ GND | [X]               [X] | GND ------ EPD GND
-                  GPIO15 | [ ]               [X] | GPIO13 --- EPD CLK
+                  GPIO15 | [ ]     ESP32     [X] | GPIO13 --- EPD CLK
                    GPIO2 | [ ]               [X] | GPIO12 --- EPD CS
                    GPIO4 | [ ]               [X] | GPIO14 --- EPD DIN
                   GPIO16 | [ ]               [X] | GPIO27 --- EPD DC

@@ -23,6 +23,8 @@ and BME280 part based on (Adafruit's)[https://github.com/adafruit/Adafruit_BME28
 
 ### Wiring
 
+```
+
                          +-----------------------+
                          | O      | USB |      O |
                          |        -------        |
@@ -47,6 +49,8 @@ and BME280 part based on (Adafruit's)[https://github.com/adafruit/Adafruit_BME28
                          |  |__|__|  |__|  |__|  |
                          | O                   O |
                          +-----------------------+
+                         
+```                        
 
 ### Code upload
 

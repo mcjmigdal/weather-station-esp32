@@ -15,7 +15,7 @@ and BME280 part based on (Adafruit's)[https://github.com/adafruit/Adafruit_BME28
 <img 
     alt="e-ink paper in photography frame displaying environmental readings"
     src="./station.png"
-    style="height: 1200px; width: 850px"
+    style="height: 600px; width: 850px"
 />
 
 
